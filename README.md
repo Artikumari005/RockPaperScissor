@@ -5,18 +5,18 @@ A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 Tech Stack ----HTML,CSS,JAVASCRIPT
 
 🚀 Features
-
-✅ 🎮 Classic Rock-Paper-Scissors gameplay
-✅ 👤 Player vs Computer mode
-✅ 🔄 Random computer choices
-✅ 📊 Scoreboard updates live
-✅ 🏆 Declares final winner after 10 rounds
+       
+       🎮 Classic Rock-Paper-Scissors gameplay
+       👤 Player vs Computer mode
+       🔄 Random computer choices
+       📊 Scoreboard updates live
+       🏆 Declares final winner after 10 rounds
 
 ⚙️ How to Play
 
-1️⃣ Start the Game – Click on Rock, Paper, or Scissors.
-2️⃣ Computer Chooses Randomly – The computer picks one of the three options.
-3️⃣ Winner of the Round –
+    1️⃣ Start the Game – Click on Rock, Paper, or Scissors.
+    2️⃣ Computer Chooses Randomly – The computer picks one of the three options.
+    3️⃣ Winner of the Round –
 
     ✅ Player wins → +1 point to player
 
