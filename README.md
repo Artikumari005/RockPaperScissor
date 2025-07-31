@@ -6,11 +6,11 @@ Tech Stack ----HTML,CSS,JAVASCRIPT
 
 🚀 Features
        
-       🎮 Classic Rock-Paper-Scissors gameplay
-       👤 Player vs Computer mode
-       🔄 Random computer choices
-       📊 Scoreboard updates live
-       🏆 Declares final winner after 10 rounds
+       - Classic Rock-Paper-Scissors gameplay
+       - Player vs Computer mode
+       -Random computer choices
+       -Scoreboard updates live
+       - Declares final winner after 10 rounds
 
 ⚙️ How to Play
 
