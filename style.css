@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+.heading{
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   transition: transform 0.3s ease;
+   gap: 30px;
+}
+#rock{
+    height: 200px;
+}
+
+#scoreBoard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    font-size: 1.5rem;
+}
+#rock:hover{
+   transform: scale(1.2);
+}
+#paper:hover{
+     transform: scale(1.2);
+}
+#scissor:hover{
+     transform: scale(1.2);
+}
+#result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#roundLeft{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
